@@ -20,7 +20,9 @@ Les données sont issues de la plateforme publique [Data.gouv.fr](https://www.da
    git clone https://github.com/Quentin-Epitech/RadGoat.git
    cd radgoat
 2. Installer les dependances : 
+    ```bash
    npm i 
 3.Lancer
+   ```bash
    npm run dev 
 
